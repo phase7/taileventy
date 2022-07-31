@@ -13,7 +13,7 @@
 		"start": "run-p dev:*",
 		"build": "run-s clean build:*"
 	},
-	"author": "Chris Collins",
+	"author": "Ratul Roy",
 	"license": "ISC",
 	"devDependencies": {
 		"@11ty/eleventy": "^1.0.1",
